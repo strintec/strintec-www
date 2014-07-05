@@ -1,0 +1,9 @@
+.idea/workspace.xml
+out
+*.DS_Store
+Thumbs.db
+Icon
+.vagrant
+
+.idea
+*.iml
