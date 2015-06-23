@@ -1,2 +1,0 @@
-strintec.github.io
-==================

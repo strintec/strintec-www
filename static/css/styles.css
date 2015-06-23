@@ -1,0 +1,31 @@
+body {
+    font: 13px/20px 'PTSansRegular', Arial, Helvetica, sans-serif;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+body a {
+    text-decoration: none;
+    color: #333;
+}
+
+.content {
+    z-index: 100;
+    text-align: center;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    margin-top: -50px;
+    left: 50%;
+    margin-left: -232px;
+}
+
+.content .strinteck-logo {
+    background: url("../img/strintec-logo-465x100.png");
+    width: 465px;
+    height: 100px;
+}
+
+.content .email-link {
+    font-size: x-large;
+    line-height: 12px;
+}
